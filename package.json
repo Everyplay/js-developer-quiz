@@ -1,0 +1,29 @@
+{
+  "name": "js-developer-quiz",
+  "version": "0.0.0",
+  "description": "Quiz for JS developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Everyplay/js-developer-quiz.git"
+  },
+  "author": "Mikko Lehtinen <m+npm@mikkolehtinen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Everyplay/js-developer-quiz/issues"
+  },
+  "homepage": "https://github.com/Everyplay/js-developer-quiz",
+  "devDependencies": {
+    "mocha": "~1.21.4",
+    "chai": "~1.9.1"
+  },
+  "dependencies": {
+    "bluebird": "~2.3.2",
+    "cheerio": "~0.17.0",
+    "lodash": "~2.4.1",
+    "request": "~2.40.0"
+  }
+}
