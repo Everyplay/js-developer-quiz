@@ -13,7 +13,7 @@ exports.kebabify = function(str) {
 };
 
 /**
- * Read titles of hits from Google. It should read titles of pages for given urls
+ * Read titles & urls of hits from Google. It should read titles of pages for given urls
  * from Google that are not hosted in everyplay.com or unity3d.com. If there is multiple
  * urls, read result in parallel from Google. Use bluebird for Promises implemention.
  *
