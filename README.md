@@ -2,7 +2,7 @@ js-developer-quiz
 =================
 Clone this repository and return your answer as zip-file containing all the relevant files.
 
-Implement functions kebabify & readTitlesFromGoogle based on instructions defined in `index.js` & `test.js`. 
+Implement functions kebabify & readHitsFromGoogle based on instructions defined in `index.js` & `test.js`. 
 Also implement missing tests defined in test.js. 
 
 You can utilize the included modules:
