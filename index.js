@@ -21,6 +21,6 @@ exports.kebabify = function(str) {
  * @return {Promise} it should resolve a Promise containing titles and urls of pages
  * in array e.g. [{url: 'http://foo.bar', title: 'Foo bar'}]
  */
-exports.readTitlesFromGoogle = function(urls) {
+exports.readHitsFromGoogle = function(urls) {
 
 };

@@ -14,7 +14,7 @@ describe('Tests', function() {
       'https://www.google.fi/#q=everyplay&start=10'
     ];
     return main
-      .readTitlesFromGoogle(urls)
+      .readHitsFromGoogle(urls)
       .then(function(hits) {
         // TODO: add tests for these:
         // 1. hits should be an array
