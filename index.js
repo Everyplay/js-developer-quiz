@@ -5,7 +5,7 @@ var Promise = require('bluebird');
 
 /**
  * Implement this function so that it returns given
- * str in Kebab case
+ * str in Kebab case ignoring non-alphanumeric characters
  * http://en.wikipedia.org/wiki/Letter_case#Special_case_styles
  */
 exports.kebabify = function(str) {

@@ -3,9 +3,9 @@ var should = require('chai').should();
 
 describe('Tests', function() {
   it('should kebabify a string', function() {
-    var testText = 'Hello Everyplay';
+    var testText = 'Hello from Everyplay developers!';
     var kebabified = main.kebabify(testText);
-    kebabified.should.equal('h_e_l_l_o__e_v_e_r_y_p_l_a_y');
+    kebabified.should.equal('hello-from-everyplay-developers');
   });
 
   it('should read hits', function() {
