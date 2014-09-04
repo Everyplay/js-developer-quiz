@@ -14,7 +14,7 @@ describe('Tests', function() {
       'unity3d'
     ];
     return main
-      .readHitsFromGoogle(urls)
+      .readHitsFromGoogle(queries)
       .then(function(hits) {
         // TODO: add tests for these:
         // 1. hits should be an array
