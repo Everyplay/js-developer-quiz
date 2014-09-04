@@ -9,9 +9,9 @@ describe('Tests', function() {
   });
 
   it('should read hits', function() {
-    var urls = [
-      'https://www.google.fi/#q=everyplay',
-      'https://www.google.fi/#q=everyplay&start=10'
+    var queries = [
+      'everyplay'
+      'unity3d'
     ];
     return main
       .readHitsFromGoogle(urls)
@@ -19,7 +19,6 @@ describe('Tests', function() {
         // TODO: add tests for these:
         // 1. hits should be an array
         // 2. check that urls are not including everyplay.com or unity3d.com
-        // 3. check that first hit is App Store (or whatever is the first hit in Google currently)
       });
   });
 });
