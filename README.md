@@ -1,6 +1,6 @@
 js-developer-quiz
 =================
-Clone this repository and return your answer as zip-file or private gist, etc. containing all the relevant files. DO NOT fork this repo.
+Return your answer as zip-file or private gist, etc. containing all the relevant files. DO NOT fork this repo.
 
 ### Question 1.
 
