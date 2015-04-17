@@ -43,7 +43,7 @@ console.log(sortByAttribute(games, ['-rating', 'name']));
 ### Question 2.
 
 Implement a function `getAvatars` that calls GitHub API and gets the avatars of given users in order. E.g.
-`getAvatars(["orktes", "nomon", "kosmikko"]` should return avatars of those users in that order. 
+`getAvatars(["orktes", "nomon", "kosmikko"])` should return avatars of those users in that order. 
 
 
 ### Question 3.
