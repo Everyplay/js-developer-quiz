@@ -1,6 +1,6 @@
 js-developer-quiz
 =================
-Return your answer as zip-file or private gist, etc. containing all the relevant files. DO NOT fork this repo.
+Return your answer as zip-file or private gist, etc. containing all the relevant files. Do not use external libs. DO NOT fork this repo.
 
 ### Question 1.
 
