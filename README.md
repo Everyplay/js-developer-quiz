@@ -1,6 +1,6 @@
 js-developer-quiz
 =================
-Return your answer as zip-file or private gist, etc. containing all the relevant files. Your JS code should work at least in one platform (browser, node, etc.). Bonus points for tests. Do not use external libs. DO NOT fork this repo.
+Return your answer as zip-file or private gist, etc. containing all the relevant files. Your JS code should work at least in one platform (browser, node, etc.). Bonus points for tests. Do not use external libs, just vanilla JS and what the platform provides. DO NOT fork this repo.
 
 ### Question 1.
 
