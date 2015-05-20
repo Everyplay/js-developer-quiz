@@ -63,5 +63,5 @@ console.log(john.firstName);
 
 ### Question 4.
 
-How would you implement backend storage for Facebook-messenger-like application (with similar scale), i.e. how would you store chat related data?
+How would you implement backend storage for Facebook-messenger-like application (with similar scale), i.e. how would you store chat related data? Main point is to describe the data structures, not hardware/db details. Use pictures if you like.
 Take approx. 15 minutes to answer this.
